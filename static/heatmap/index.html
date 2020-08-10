@@ -1,0 +1,32 @@
+---
+---
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Where to live, actually</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        height: 100%;
+        width: 85%;
+        float: left;
+      }
+      #controls {
+        float: right;
+        color: #777;
+        line-height: 1.6;
+      }
+      {% include plugins/purecss.min.css %}
+    </style>
+  </head>
+  <body>
+    {% include plugins/map.html %}
+    {% include plugins/map-controls-stacked.html %}
+  </body>
+</html>

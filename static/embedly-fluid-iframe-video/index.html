@@ -1,0 +1,80 @@
+<html>
+<head>
+<link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
+<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/embedly-jquery/3.0.5/jquery.embedly.min.js"></script>
+<script>
+ var EMBEDLY_KEY = "c50d4c3341094e2a98d053297ffae64a";
+</script>
+<style type="text/css">
+    * {
+        color: white;
+    }
+    .page {
+        max-width: 70%;
+        margin: 0 auto;
+    }
+    .header {
+        background-color: #2ecc71;
+        color: #ecf0f1;
+    }
+
+    .sub-head {
+        background-color: #27ae60;
+    }
+</style>
+</head>
+<body>
+<div class="page">
+    <div class="row-fluid header">
+        <div class="span12">
+            <h1>Fluid Width Embed.ly with SSL</h1>
+        </div>
+    </div>
+    <div class="row-fluid sub-head">
+        <div class="span12">
+            <p>Using Embed.ly's <em>maxwidth</em> setting to embed <b>secure iframe videos</b> in a fluid layout.</p>
+            <p>Gist available at: <a href="https://gist.github.com/jtrain/5619278">https://gist.github.com/jtrain/5619278</a></p>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span4">
+            <div class="content">
+                <p><a href="http://www.youtube.com/watch?v=K9m9vPAlb_0">http://www.youtube.com/watch?v=K9m9vPAlb_0</a></p>
+            </div>
+        </div>
+        <div class="span8">
+            <div class="content">
+                <p><a href="http://www.youtube.com/watch?v=rI8tNMsozo0">http://www.youtube.com/watch?v=rI8tNMsozo0</a></p>
+            </div>
+        </div>
+    </div>
+    <script>
+(function() {
+ 
+    window.embedlyFluid = function(selector, key, options) {
+        $(selector).each(function() {
+     
+            // set the video to the width of the parent container
+            var width = $(this).parent().width();
+     
+            defaults = {
+                secure: true
+                , frame: true
+                , maxwidth: width
+            }
+
+            query = $.extend({}, defaults, options);
+            $(this).embedly({
+                key: key
+                , query: query
+            });
+        });
+    };
+ 
+})();
+
+    embedlyFluid('.content a', EMBEDLY_KEY, {autoplay: true});
+    </script>
+</body>
+</html>
