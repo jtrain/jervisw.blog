@@ -6,23 +6,7 @@ then
     exit 1;
 fi
 
-echo "Deleting old publication"
-rm -rf public
-mkdir public
-git worktree prune
-rm -rf .git/worktrees/public/
+AWS_SHARED_CREDENTIALS_FILE=.awsconfig
 
-echo "Checking out hugo-pages branch into public"
-git worktree add -B hugo-pages public origin/hugo-pages
-
-echo "Removing existing files"
-rm -rf public/*
-
-echo "Generating site"
-hugo
-
-echo "Updating hugo-pages branch"
-cd public && git add --all && git commit -m "Publishing to hugo-pages (publish.sh)"
-
-echo "Pushing to github"
-git push --all
+echo "Deploying site"
+hugo deploy

@@ -61,6 +61,12 @@ uglyURLs = false
 [frontmatter]
     lastmod = ["lastmod", ":git", ":fileModTime", ":default"]
 
+[deployment]
+
+[[deployment.targets]]
+name = "s3"
+URL = "s3://jervis-blog?region=ap-southeast-2"
+
 # Markdown renderer
 [markup]
     defaultMarkdownHandler = "goldmark"
