@@ -21,7 +21,7 @@ uses the [hugo](https://gohugo.io) blogging engine.
 var messages = [
     "&nbsp;",
     "&nbsp;",
-    "<a href='http://hn.algolia.com/#!/comment/sort_by_date/0/please%20stop%20author%3Apg'>Please stop.</a>",
+    "<a href='https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=please%20stop%20author%3Apg&sort=byPopularity&type=comment'>Please stop.</a>",
     "Did it not work?",
     "Now we'll meet every time you open the browser.",
     "It is an honour to be your portal.",
