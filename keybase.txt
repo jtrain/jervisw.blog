@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/jervis
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jerviswhitley.com
+  * I am jervis (https://keybase.io/jervis) on keybase.
+  * I have a public key with fingerprint 1AC9 A2AB F8E0 8326 F2AF  9920 68EB 6C8F DB03 5FD6
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "1ac9a2abf8e08326f2af992068eb6c8fdb035fd6",
+            "host": "keybase.io",
+            "key_id": "68EB6C8FDB035FD6",
+            "uid": "5464b957b99c1b04a454f790a3cea300",
+            "username": "jervis"
+        },
+        "service": {
+            "hostname": "jerviswhitley.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1397256554,
+    "expire_in": 157680000,
+    "prev": "bcfe79e223975ca881979c901168bdb9fc70267201b80c694920a6c0bb803a2a",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1.4.14 (GNU/Linux)
+
+owGbwMvMwMSY8Tqn/zZz/DXG0we+JDEEexRmVSsl5adUKllVK2Wngqm0zLz01KKC
+osy8EiUrJcPEZMtEo8SkNItUAwtjI7M0o8Q0S0sjAzOL1CSzZIu0lCQDY9O0FDMl
+HaWM/GKQDqAxSYnFqXqZ+UAxICc+MwUoambh6mTmbOHm4gRU7+YCUl8KljA1MTNJ
+sjQ1T7K0TDZMMjBJNDE1STO3NEg0Tk5NNDYwACksTi3KS8xNBarOSi0qyyxWqtVR
+KgaxklNBLgZZjCJfnpFZkpNaqZecnwvUXlCUX5KfnJ8DlM4oKSmwAukuqSwAKS9P
+TYqHGhSflJmXAvQ6UENZalFxZn6ekpUhUGVySSbIZENjS3MjUzNTUxMdpdSKgsyi
+1PhMkApTczMLAyAAWZNaBjQyKTkt1dwy1cgIqME0OdHCwtDS3DLZ0sDQ0MwiKSXJ
+Mi3Z3MDIzNzIwDDJwiDZzNIEGJiJZskGSUCuMTCklUBeK8zLV7IyBjozMR1oZHFm
+el5iSWlRqlJtJ5MMCwMjEwMbKxMo8hi4OAVgUWqVx//P6vrKhZPbq/6rblffcJsz
+MrXQl2t1XCRzzN1rSmdFb9lG5kwvZq6aOif5jfj3vAvV940nR7ate7jVWeX+NnMj
+V7sbS9581mQ+au54Vyh47paNnzaXiv5Keal4TLbs7DyWM3ePX2OXyYz5at4Wtaj2
+x8QfHLKBJ7dd8DjtUZj6ZT/jBJ3WHDf7dY8FzlxYz+TVt/33gxT++k0KUp2Wu/gt
+DlqI2hwNucKpGf1rSl9zHIvz6iqzT5/CHjBzeZ5uMOKc3r97rWIm15SvnyeslZ2/
+xIjNIytVR3zi5u2ZvMxz1WbY7Gs5ldO7pMDJ/1Nfy69XE1dOOvVqvl2WszO3VECe
+SohbvlXz2cqlFp8Nvne/8SqM3mNfpt5x7AZjhpq/fOW8tVuW5ZXcDjOqt1x0IM3a
+xFxcWP7zA8kctu8WGbcDmuPV4tZZRW/v4pzIfLg8VWPFFiGva6qrj9uvuLlKNVrN
+KXq5B0fpyZPPM2QKmGMSJ+SV3gqXyDwzh4d7bmqa/Qs5rroQRz2pE1KVDDzpz6ae
+l9k6X1pgscRmV92uF5oSc+73XDbdmx6x8EPWG73XyfH7akJElB3+ms8uX77y//oi
+59l6PNsmdXbJJmjqHdvrHvEo/XqN3L1pX38z1n+WSXXd5HUoY5mNROPXk6zXnnSv
+lOUvfnX99vr4E/lP3S69ZF2sEPvs15tp+6RucC61217G6qrx/WaW5mNuNwA=
+=dxSE
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jervis
+
+==================================================================
+
