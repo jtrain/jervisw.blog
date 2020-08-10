@@ -8,5 +8,8 @@ fi
 
 AWS_SHARED_CREDENTIALS_FILE=.awsconfig
 
-echo "Deploying site"
-hugo deploy
+echo "generating site"
+hugo
+
+echo "deployment"
+s3cmd -c .s3cfg --no-check-certificate sync public/ s3://jerviswhitley.com
