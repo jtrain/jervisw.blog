@@ -18,9 +18,6 @@ Apple Spartan. 3m high 3m wide
 ![Apple Winter Banana](/assets/images/barerooted/apple-winter-banana.jpg)
 Apple Winter Banana 3m high 3m wide
 
-![apricot](/assets/images/barerooted/apricot.jpg)
-Apricot. 
-
 ![blood orange](/assets/images/barerooted/blood-orange.jpg)
 Blood Orange - 6-8m high 3-5m wide
 
@@ -53,6 +50,9 @@ Imperial Manderin. 3-4m high 3-4m wide
 
 ![Mulberry white](/assets/images/barerooted/mulberry-white.jpg)
 Mulberry - White. 5m high
+
+![Nectarine](/assets/images/barerooted/apricot.jpg)
+Nectarine - Unknown.
 
 ![nectarine](/assets/images/barerooted/peacharine.jpg)
 Nectarine - Peacharine
