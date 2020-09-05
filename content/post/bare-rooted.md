@@ -9,6 +9,15 @@ Winter planting of fruit trees
 ![Almond](/assets/images/barerooted/almond.jpg)
 Almond.  2-2.5m high 2-2.5m wide
 
+![Apple Akane](/assets/images/barerooted/apple-akane.jpg)
+Apple Akane. 3m high 3m wide
+
+![Apple Spartan](/assets/images/barerooted/apple-spartan.jpg)
+Apple Spartan. 3m high 3m wide
+
+![Apple Winter Banana](/assets/images/barerooted/apple-winter-banana.jpg)
+Apple Winter Banana 3m high 3m wide
+
 ![apricot](/assets/images/barerooted/apricot.jpg)
 Apricot. 
 
@@ -20,6 +29,10 @@ Blueberry - Sunshine Blue
 
 ![boisenberry](/assets/images/barerooted/boysnberry.jpg)
 Boysenberry
+
+![Cherry Kentish](/assets/images/barerooted/cherry-kentish-1.jpg)
+![Cherry Kentish](/assets/images/barerooted/cherry-kentish-2.jpg)
+Cherry - Kentish. 2.5 - 3m high
 
 ![curry leaf](/assets/images/barerooted/curry-leaf.jpg)
 Curry Leaf
@@ -36,19 +49,29 @@ Lemon - Meyer
 Lime - Unknown
 
 ![imperial manderin](/assets/images/barerooted/mandarin.jpg)
-Imperial Manderin - 3-4m high 3-4m wide
+Imperial Manderin. 3-4m high 3-4m wide
 
-![dwarf nectarine](/assets/images/barerooted/nectarine-dwarf.jpg)
-Peach - Dwarf
-
-![peach](/assets/images/barerooted/peach.jpg)
-Nectarine/Peach - Nectazee/Pixzee - 1.5m high 1.5m wide
+![Mulberry white](/assets/images/barerooted/mulberry-white.jpg)
+Mulberry - White. 5m high
 
 ![nectarine](/assets/images/barerooted/peacharine.jpg)
 Nectarine - Peacharine
 
+![peach](/assets/images/barerooted/peach.jpg)
+Nectarine/Peach - Nectazee/Pixzee - 1.5m high 1.5m wide
+
+![dwarf nectarine](/assets/images/barerooted/nectarine-dwarf.jpg)
+Peach - Dwarf
+
+![Pear Winter Nelis](/assets/images/barerooted/pear-winter-nelis.jpg)
+Pear - Winter Nelis. 5m high
+
+![Pear Williams (Bartlett)](/assets/images/barerooted/pear-williams.jpg)
+Pear - Williams (Bartlett). 5m high
+
 ![raspberry](/assets/images/barerooted/raspberry-chilliwack.jpg)
 Raspberry - Chilliwack
+
 ![raspberry](/assets/images/barerooted/raspberry-heritage.jpg)
 Raspberry - Heritage
 
@@ -57,6 +80,7 @@ Rhubarb
 
 ![rosemary](/assets/images/barerooted/rosemary.jpg)
 Rosemary
+
 ![sugar plum](/assets/images/barerooted/sugar-plum.jpg)
 Sugar Plum - 4m high 4m wide
 
