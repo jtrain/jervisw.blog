@@ -10,13 +10,13 @@ Winter planting of fruit trees
 Almond.  2-2.5m high 2-2.5m wide
 
 ![Apple Akane](/assets/images/barerooted/apple-akane.jpg)
-Apple Akane. 3m high 3m wide
+Apple Akane. 3m high 3m wide. M106 rootstock
 
 ![Apple Spartan](/assets/images/barerooted/apple-spartan.jpg)
-Apple Spartan. 3m high 3m wide
+Apple Spartan. 3m high 3m wide. M106 rootstock
 
 ![Apple Winter Banana](/assets/images/barerooted/apple-winter-banana.jpg)
-Apple Winter Banana 3m high 3m wide
+Apple Winter Banana 3m high 3m wide. M106 rootstock
 
 ![blood orange](/assets/images/barerooted/blood-orange.jpg)
 Blood Orange - 6-8m high 3-5m wide
@@ -64,10 +64,10 @@ Nectarine/Peach - Nectazee/Pixzee - 1.5m high 1.5m wide
 Peach - Dwarf
 
 ![Pear Winter Nelis](/assets/images/barerooted/pear-winter-nelis.jpg)
-Pear - Winter Nelis. 5m high
+Pear - Winter Nelis. 5m high. Quince C rootstock
 
 ![Pear Williams (Bartlett)](/assets/images/barerooted/pear-williams.jpg)
-Pear - Williams (Bartlett). 5m high
+Pear - Williams (Bartlett). 5m high. Quince A rootstock
 
 ![raspberry](/assets/images/barerooted/raspberry-chilliwack.jpg)
 Raspberry - Chilliwack
